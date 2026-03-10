@@ -1,0 +1,4 @@
+10001 John Smith          160 02550
+10002 Mary Johnson        152 03000
+10003 David Brown         168 02875
+10004 Sarah Wilson        145 02640
